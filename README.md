@@ -1,43 +1,57 @@
-## Hi there 👋
+<div align="center">
 
+# Hey, I'm Murat Can 👋
 
-<h1 align="center">Murat Can Tanrıverdi</h1>
-<p align="center">
-  Backend Engineer • Distributed Systems • Kotlin & Java
-</p>
+**Backend Engineer** — I build systems that scale, fail gracefully, and are fun to maintain.
 
-<p align="center">
-  <a href="https://muratcant.dev/tr">🌐 Portfolio</a> •
-  <a href="https://github.com/muratcant?tab=repositories">Repositories</a>
-</p>
+Currently based in **Kayseri 🇹🇷**, working mostly with **Kotlin & Java** in the backend world.
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-muratcant.dev-black?style=flat-square)](https://muratcant.dev/tr)
+[![Email](https://img.shields.io/badge/📫_Email-muratcantanriverdi96@gmail.com-black?style=flat-square)](mailto:muratcantanriverdi96@gmail.com)
+
+</div>
+
+---
+
+## A little about me
+
+I'm a backend engineer who genuinely enjoys the craft — thinking through data flows, designing clean APIs, and figuring out why something is slow at 2am. I care about writing code that future-me (and teammates) will actually appreciate.
+
+My sweet spot is **distributed systems and event-driven architecture**, but I'm always curious about what's just outside my comfort zone.
 
 ---
 
 ## 🧰 Tech Toolbox
 
-### Languages
+**Languages**
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Backend & Frameworks
+**Backend & Frameworks**
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
-### Data & Messaging
+**Data & Messaging**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
 
-### DevOps & Cloud
+**DevOps & Cloud**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Observability & Engineering
+**Observability & Architecture**
+
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry)
 ![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -46,84 +60,63 @@
 
 ---
 
-## 🔧 Engineering Focus
+## 🔧 What I focus on
 
-- Designing **high-scale backend systems**
-- Event-driven microservices with **Kafka**
-- Domain modeling with **DDD & Clean Architecture**
-- Building reliable APIs with observability-first mindset
-- Performance, scalability & operational excellence
+- Designing **high-scale backend systems** that are built to last
+- Event-driven microservices with **Kafka** — async, decoupled, resilient
+- **DDD & Clean Architecture** — modeling the domain, not just the database
+- APIs with an **observability-first mindset** — if you can't measure it, you can't fix it
+- Performance, scalability & **operational excellence**
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
+
+### 🔗 Shortify — URL Shortening Service
+A fast and reliable URL shortener with redirect tracking and caching.
+
+**Stack:** Java • Spring Boot • PostgreSQL • Redis • Docker
+
+👉 [github.com/muratcant/Shortify](https://github.com/muratcant/Shortify)
+
+---
 
 ### 🟣 BookStack — Vertical Slice Backend
-Hybrid bookstore & personal library backend.
+A hybrid bookstore & personal library backend built with a clean, vertical-slice architecture.
 
 **Stack:** Kotlin • Spring Boot • PostgreSQL • OpenAPI • Kotest • Docker
 
-👉 https://github.com/muratcant/BookStack
+👉 [github.com/muratcant/BookStack](https://github.com/muratcant/BookStack)
 
 ---
 
 ### 🎧 AudioLog — Spotify Listening Diary
-Transforms listening history into a personal research notebook.
+Turns your Spotify listening history into a personal, searchable research notebook.
 
 **Stack:** Kotlin • Spring Boot • PostgreSQL • Flyway • Docker Compose
 
-👉 https://github.com/muratcant/AudioLog
+👉 [github.com/muratcant/AudioLog](https://github.com/muratcant/AudioLog)
 
 ---
 
 ### ⚙️ RuleForge — Runtime Rule Engine API
-Dynamic business rule evaluation without redeployment.
+Evaluate business rules dynamically at runtime — no redeployment needed.
 
 **Stack:** .NET • PostgreSQL • Clean Architecture • Docker
 
-👉 https://github.com/muratcant/RuleForge
+👉 [github.com/muratcant/RuleForge](https://github.com/muratcant/RuleForge)
 
 ---
 
 ### 🧩 DesignPatterns
 Hands-on implementations of classic software design patterns.
 
-👉 https://github.com/muratcant/DesignPatterns
+👉 [github.com/muratcant/DesignPatterns](https://github.com/muratcant/DesignPatterns)
 
 ---
 
-## 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muratcant&show_icons=true&hide_title=true" />
-</p>
+*Building scalable systems, learning continuously.* ⭐️
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muratcant" />
-</p>
-
----
-
-## 🤝 Connect
-
-- 🌐 https://muratcant.dev/tr
-- 📫 muratcantanriverdi96@gmail.com
-
----
-
-⭐️ *Building scalable systems, learning continuously.*
-
-<!--
-**muratcant/muratcant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
